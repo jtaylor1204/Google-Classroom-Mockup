@@ -20,7 +20,7 @@ This is a UX/UI case study created for my portfolio. I noticed that many of my s
 
 ## Tech Used / Dependencies
 
-- HTML/CSS static webpage Bootstrap framework.
+- HTML/CSS static webpage with Bootstrap framework.
 
 - Color inspiration from: [Google Classroom](https://classroom.google.com/)
 

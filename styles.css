@@ -1,0 +1,61 @@
+.assignment{
+    display: inline;
+}
+
+body{
+    font-family: 'Sans', sans-serif !important; 
+    color:#5f6368;
+    margin-bottom: 100px;
+}
+
+h3{
+    color:rgb(194,100,1);
+    padding-top: 50px;
+}
+.heading-img{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+.icons{
+    width: 60px;
+    height: 50px;
+    margin-left: -30px;
+    cursor: pointer;
+}
+.line {
+    height: 50px;
+    border-bottom: 2px solid black;
+  }
+
+nav button{
+    margin-right: 1300px;
+}
+.nav-content{
+    display: inline-block !important;
+   
+}
+.nav-img{
+    width: 140px;
+    height: 50px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.first-row{
+   padding-top: 3px; 
+}
+.flex-container{
+    display: inline-block;
+}
+.side-menu li{
+    list-style: none;
+    padding: 15px;
+    padding-top: 20px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+.menu-item{
+    padding: 15px;
+    cursor: pointer;
+}
